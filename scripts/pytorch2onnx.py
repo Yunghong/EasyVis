@@ -1,3 +1,5 @@
+# cite: https://github.com/cyrusbehr/YOLOv8-TensorRT-CPP
+
 from ultralytics import YOLO
 import argparse
 
