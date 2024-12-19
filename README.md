@@ -8,9 +8,9 @@ Real-Time 3D rendering system targeted for laparoscopic surgery. Our work is in 
 ## Contributors
 
 - Yung-Hong Sun
-- Jianwei Ke
 - Jiangang Chen
-- Jayer Fernandes
 - Gefei Shen
+- Jayer Fernandes
+- Jianwei Ke
 - Hongrui Jiang
 - Yu Hen Hu
