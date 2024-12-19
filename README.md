@@ -5,7 +5,7 @@
 ## Description
 Real-Time 3D rendering system targeted for laparoscopic surgery. Our work is in early stage, focusing on the laparoscopic surgery box trainer environment.
 
-![Loading Animation](./easyvis demo.gif)
+![EasyVis Demo GIF](https://github.com/Yunghong/EasyVis/blob/main/easyvis%20demo.gif)
 
 ## Contributors
 
