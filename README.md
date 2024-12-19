@@ -5,6 +5,7 @@
 ## Description
 Real-Time 3D rendering system targeted for laparoscopic surgery. Our work is in early stage, focusing on the laparoscopic surgery box trainer environment.
 
+%!easyvis demo.gif
 ## Contributors
 
 - Yung-Hong Sun
