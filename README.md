@@ -1,16 +1,18 @@
 # EasyVis
 ## Description
-Real-time 3D rendering system targeted for laparoscopic surgery. Our work is in the early stage, focusing on the laparoscopic surgery box trainer environment.
+Real-time 3D rendering system targeted for laparoscopic surgery. Our work is in the early stage, focusing on the laparoscopic surgery box trainer environment. The development of this work is from coarse to fine, set the framework first, then fill/refine the details.
 
 The demo of our work.
+
 ![EasyVis Demo GIF](https://github.com/Yunghong/EasyVis/blob/main/easyvis%20demo.gif)
 
 The workflow of our work.
+
 ![Project Logo](https://github.com/Yunghong/EasyVis/blob/main/easyvisPipelineV2.png)
 
 ## Publications
-* 1
-* 2
+* EasyVis2: A Real-Time Multi-view 3D Visualization for Laparoscopic Surgery Training Enhanced by a Deep Neural Network YOLOv8-Pose
+* EasyVis: A Real-Time 3D Visualization Software System for Laparoscopic Surgery Box Trainer (Under review in Updates In Surgery, minor revision)
 
 ## Contributors
 
