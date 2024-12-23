@@ -1,6 +1,6 @@
 # EasyVis
 
-%![Project Logo](path_to_logo_or_image)
+%![Project Logo](https://github.com/Yunghong/EasyVis/blob/main/easyvisPipelineV2.png)
 
 ## Description
 Real-Time 3D rendering system targeted for laparoscopic surgery. Our work is in early stage, focusing on the laparoscopic surgery box trainer environment.
