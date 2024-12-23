@@ -12,7 +12,10 @@ The workflow of our work.
 
 ## Publications
 * EasyVis2: A Real-Time Multi-view 3D Visualization for Laparoscopic Surgery Training Enhanced by a Deep Neural Network YOLOv8-Pose
-* EasyVis: A Real-Time 3D Visualization Software System for Laparoscopic Surgery Box Trainer (Under review in Updates In Surgery, minor revision)
+* EasyVis: A Real-Time 3D Visualization Software System for Laparoscopic Surgery Box Trainer (Under review in the journal Updates In Surgery, minor revision)
+
+## Acknowledgments
+This work was supported by the National Institute of Biomedical Imaging and Bioengineering (NIBIB) of the U.S. National Institutes of Health (NIH) under award number R01EB019460.
 
 ## Contributors
 
