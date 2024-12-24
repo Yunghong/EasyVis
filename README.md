@@ -11,7 +11,7 @@ The workflow of our work.
 ![Project Logo](https://github.com/Yunghong/EasyVis/blob/main/easyvisPipelineV2.png)
 
 ## Publications
-* EasyVis2: A Real-Time Multi-view 3D Visualization for Laparoscopic Surgery Training Enhanced by a Deep Neural Network YOLOv8-Pose
+* [EasyVis2: A Real-Time Multi-view 3D Visualization for Laparoscopic Surgery Training Enhanced by a Deep Neural Network YOLOv8-Pose](https://arxiv.org/abs/2412.16742)
 * EasyVis: A Real-Time 3D Visualization Software System for Laparoscopic Surgery Box Trainer (Under review in the journal Updates In Surgery, minor revision)
 
 ## Acknowledgments
