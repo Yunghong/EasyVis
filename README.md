@@ -1,8 +1,8 @@
 # EasyVis
 ## Description
-Real-time 3D rendering system targeted for laparoscopic surgery. Our work is in the early stage, focusing on the laparoscopic surgery box trainer environment. The development of this work is from coarse to fine, set the framework first, then fill/refine the details.
+Our real-time 3D rendering system is targeted for laparoscopic surgery. Currently, our work is in the early stages, focusing on a laparoscopic surgery box trainer environment. The development process follows a coarse-to-fine approach: first, we establish the framework, then we fill in and refine the details.
 
-The demo of our work.
+The demo of our work. We demonstrate real-time 3D reconstruction and rendering for a laparoscopic surgery box trainer, specifically focusing on the bean drop task. The shown version is targeted for an experiment that will be conducted in Spring 2025. We plan to sample data from the operations performed by medical students at UM-Madison. 
 
 ![EasyVis Demo GIF](https://github.com/Yunghong/EasyVis/blob/main/easyvis%20demo.gif)
 
@@ -18,7 +18,6 @@ The workflow of our work.
 This work was supported by the National Institute of Biomedical Imaging and Bioengineering (NIBIB) of the U.S. National Institutes of Health (NIH) under award number R01EB019460.
 
 ## Contributors
-
 - Yung-Hong Sun
 - Gefei Shen
 - Jiangang Chen
