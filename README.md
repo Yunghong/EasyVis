@@ -6,9 +6,6 @@ A demo of our work. We demonstrate real-time 3D reconstruction and rendering for
 
 ![EasyVis Demo GIF](https://github.com/Yunghong/EasyVis/blob/main/easyvis%20demo.gif)
 
-A demo of real-time novel view 3D visualization.
-![EasyVis Demo GIF](https://github.com/Yunghong/EasyVis/blob/main/novelView.gif)
-
 The workflow of our work.
 
 ![Project Logo](https://github.com/Yunghong/EasyVis/blob/main/easyvisPipelineV2.png)
