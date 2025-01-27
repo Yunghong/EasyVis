@@ -11,7 +11,7 @@ The workflow of our work.
 ![Project Logo](https://github.com/Yunghong/EasyVis/blob/main/easyvisPipelineV2.png)
 
 ## ST-Pose Dataset
-In preparation, it will be released in January.
+[ST-Pose](https://uwmadison.box.com/s/49t1hc1ctdpe1a70ssqj0xw46azofbq4)
 
 ## Publications
 * [EasyVis2: A Real-Time Multi-view 3D Visualization for Laparoscopic Surgery Training Enhanced by a Deep Neural Network YOLOv8-Pose](https://arxiv.org/abs/2412.16742)
