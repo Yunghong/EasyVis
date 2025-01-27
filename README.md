@@ -6,9 +6,14 @@ A demo of our work. We demonstrate real-time 3D reconstruction and rendering for
 
 ![EasyVis Demo GIF](https://github.com/Yunghong/EasyVis/blob/main/easyvis%20demo.gif)
 
-Demo of 3D visualization when operating the LS tool.
+Demo of real-time 3D visualization when operating the LS tool.
 
 ![EasyVis Demo GIF](https://github.com/Yunghong/EasyVis/blob/main/novelView.gif)
+
+Demo of 3D visualization over meat. The distance between the surgical tool and the tissue can be directly observed through EasyVis, although this distance is invisible in the camera view.
+
+![Meat Visualization](https://github.com/Yunghong/EasyVis/blob/main/3DVisualizationOverMeat.png)
+
 
 The workflow of our work.
 
