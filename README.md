@@ -10,10 +10,9 @@ Demo of real-time 3D visualization when operating the LS tool.
 
 ![EasyVis Demo GIF](https://github.com/Yunghong/EasyVis/blob/main/novelView.gif)
 
-Demo of 3D visualization over meat. The distance between the surgical tool and the tissue can be directly observed through EasyVis, although this distance is invisible in the camera view.
+Demo of 3D visualization over meat. The distance between the surgical tool and the tissue can be directly observed through EasyVis, although this distance is invisible from the camera view. (a) captured camera views. (b) rendered novel view.
 
 ![Meat Visualization](https://github.com/Yunghong/EasyVis/blob/main/3DVisualizationOverMeat.png)
-
 
 The workflow of our work.
 
