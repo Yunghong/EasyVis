@@ -7,6 +7,7 @@ A demo of our work. We demonstrate real-time 3D reconstruction and rendering for
 ![EasyVis Demo GIF](https://github.com/Yunghong/EasyVis/blob/main/easyvis%20demo.gif)
 
 Demo of 3D visualization when operating the LS tool.
+
 ![EasyVis Demo GIF](https://github.com/Yunghong/EasyVis/blob/main/novelView.gif)
 
 The workflow of our work.
