@@ -21,6 +21,8 @@ The workflow of our work.
 ## ST-Pose Dataset
 [ST-Pose](https://uwmadison.box.com/s/49t1hc1ctdpe1a70ssqj0xw46azofbq4)
 
+The dataset is in YOLOv5 format.
+
 ## Publications
 * [EasyVis2: A Real-Time Multi-view 3D Visualization for Laparoscopic Surgery Training Enhanced by a Deep Neural Network YOLOv8-Pose](https://arxiv.org/abs/2412.16742)
 * EasyVis: A Real-Time 3D Visualization Software System for Laparoscopic Surgery Box Trainer (Under review in the journal Updates In Surgery, minor revision)
