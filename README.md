@@ -2,7 +2,7 @@
 ## Description
 Our real-time 3D rendering system is targeted for laparoscopic surgery. Currently, our work is in the early stages, focusing on a laparoscopic surgery box trainer environment. The development process follows a coarse-to-fine approach: first, we establish the framework, then we fill in and refine the details.
 
-A demo of our work. We demonstrate real-time 3D reconstruction and rendering for a laparoscopic surgery box trainer, specifically focusing on the bean drop task. The shown version is targeted for an experiment that will be conducted in Spring 2025. We plan to sample data from the operations performed by medical students at UM-Madison. The process achieves a **real-time** performance of 12.6 ms per frame, from reading data from 5 cameras to completing 3D rendering.
+A demo of our work. We demonstrate real-time 3D reconstruction and rendering for a laparoscopic surgery box trainer, specifically focusing on the bean drop task. The shown version is targeted for an experiment that will be conducted in Spring 2025. We plan to sample data from the operations performed by medical students at UM-Madison. The process achieves a **real-time** performance of 12.6 ms per frame, from reading 5 cameras to completing 3D rendering.
 
 ![EasyVis Demo GIF](https://github.com/Yunghong/EasyVis/blob/main/easyvis%20demo.gif)
 
