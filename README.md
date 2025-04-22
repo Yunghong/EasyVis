@@ -25,7 +25,7 @@ The dataset is in YOLOv5 format.
 
 ## Publications
 * Yung-Hong Sun, J. Chen, T. Lin, H. Jiang, Y.H. Hu, Efficient Undistinguishable Dense 3D Objects Association Based on Multi-Camera System (In preparation).
-* Yung-Hong Sun, G. Shen, J. Chen, J. Fernandes, H. Jiang, and Y.H. Hu. EasyVis2: A Real Time Multi-view 3D Visualization for Laparoscopic Surgery Training Enhanced by a Deep Neural Network YOLOv8-Pose. arXiv preprint arXiv:2412.16742 (2024). 
+* Yung-Hong Sun, G. Shen, J. Chen, J. Fernandes, H. Jiang, and Y.H. Hu. EasyVis2: A Real Time Multi-view 3D Visualization System for Laparoscopic Surgery Training Enhanced by a Deep Neural Network YOLOv8-Pose. arXiv preprint arXiv:2412.16742 (2024). 
 * Yung-Hong Sun, J. Ke, J. Fernandes, J. Chen, H. Jiang, Y.H. Hu, EasyVis: An Interactive 3D Visualization Software System for Laparoscopic Box Trainer. Updates in Surgery, 2025. DOI: 10.1007/s13304-025-02153-w.
 
 ## Presentation & Poster
